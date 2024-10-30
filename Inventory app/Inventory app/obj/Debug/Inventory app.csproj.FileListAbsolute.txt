@@ -1,0 +1,118 @@
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\Inventory app.exe.config
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\Inventory app.exe
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\Inventory app.pdb
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\obj\Debug\Inventory app.csproj.AssemblyReference.cache
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\obj\Debug\Inventory_app.Inventory.resources
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\obj\Debug\Inventory_app.Properties.Resources.resources
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\obj\Debug\Inventory app.csproj.GenerateResource.cache
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\obj\Debug\Inventory app.csproj.CoreCompileInputs.cache
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\obj\Debug\Inventory app.exe
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\obj\Debug\Inventory app.pdb
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\obj\Debug\Inventory_app.login.resources
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\obj\Debug\Inventory_app.Add_end_user.resources
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\obj\Debug\Inventory_app.Adminpage.resources
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\obj\Debug\Inventory_app.Enduserpage.resources
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\ClosedXML.dll
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\ClosedXML.Parser.dll
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\RBush.dll
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\System.Buffers.dll
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\System.IO.Packaging.dll
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\System.Memory.dll
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\ClosedXML.pdb
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\ClosedXML.xml
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\ClosedXML.Parser.xml
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\RBush.xml
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\System.Buffers.xml
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\System.IO.Packaging.xml
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\System.Memory.xml
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\obj\Debug\Inventory app.csproj.CopyComplete
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\EPPlus.dll
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\ExcelDataReader.dll
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\EPPlus.xml
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\ExcelDataReader.pdb
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\ExcelDataReader.xml
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\obj\Debug\Inventory_app.ManageInv.resources
+C:\Users\Thandile Solanga\source\repos\Inventory app\Inventory app\obj\Debug\Inventory_app.Users.resources
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Debug\Inventory_app.Add_end_user.resources
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Debug\Inventory_app.Adminpage.resources
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Debug\Inventory_app.Enduserpage.resources
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Debug\Inventory_app.Inventory.resources
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Debug\Inventory_app.login.resources
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Debug\Inventory_app.ManageInv.resources
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Debug\Inventory_app.Properties.Resources.resources
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Debug\Inventory_app.Users.resources
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Debug\Inventory app.csproj.GenerateResource.cache
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Debug\Inventory app.csproj.CoreCompileInputs.cache
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Debug\Inventory app.exe
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Debug\Inventory app.pdb
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\Inventory app.exe.config
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\Inventory app.exe
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\Inventory app.pdb
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\ClosedXML.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\ClosedXML.Parser.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\EPPlus.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\EPPlus.Interfaces.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\EPPlus.System.Drawing.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\ExcelDataReader.DataSet.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\ExcelDataReader.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\ExcelNumberFormat.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\RBush.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\SixLabors.Fonts.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\System.Buffers.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\System.IO.Packaging.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\System.Memory.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\System.Numerics.Vectors.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\ClosedXML.pdb
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\ClosedXML.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\ClosedXML.Parser.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\EPPlus.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\ExcelDataReader.pdb
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\ExcelDataReader.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\ExcelDataReader.DataSet.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\ExcelNumberFormat.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\RBush.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\SixLabors.Fonts.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\System.Buffers.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\System.IO.Packaging.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\System.Memory.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\System.Numerics.Vectors.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Debug\Inventory app.csproj.CopyComplete
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Debug\Inventory app.csproj.AssemblyReference.cache

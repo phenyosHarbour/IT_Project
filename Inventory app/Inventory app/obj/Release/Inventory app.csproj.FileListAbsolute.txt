@@ -1,0 +1,59 @@
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\Inventory app.exe.config
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\Inventory app.exe
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\Inventory app.pdb
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\ClosedXML.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\ClosedXML.Parser.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\DocumentFormat.OpenXml.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\DocumentFormat.OpenXml.Framework.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\EPPlus.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\EPPlus.Interfaces.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\EPPlus.System.Drawing.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\ExcelDataReader.DataSet.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\ExcelDataReader.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\ExcelNumberFormat.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\Microsoft.Bcl.HashCode.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\RBush.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\SixLabors.Fonts.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\System.Buffers.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\System.ComponentModel.Annotations.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\System.Diagnostics.DiagnosticSource.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\System.IO.Packaging.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\System.Memory.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\System.Numerics.Vectors.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\ClosedXML.pdb
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\ClosedXML.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\ClosedXML.Parser.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\DocumentFormat.OpenXml.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\DocumentFormat.OpenXml.Framework.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\EPPlus.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\ExcelDataReader.pdb
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\ExcelDataReader.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\ExcelDataReader.DataSet.pdb
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\ExcelDataReader.DataSet.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\ExcelNumberFormat.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\Microsoft.Bcl.HashCode.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\RBush.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\SixLabors.Fonts.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\System.Buffers.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\System.Diagnostics.DiagnosticSource.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\System.IO.Packaging.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\System.Memory.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\System.Numerics.Vectors.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Release\Inventory app.csproj.AssemblyReference.cache
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Release\Inventory_app.Add_end_user.resources
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Release\Inventory_app.Adminpage.resources
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Release\Inventory_app.Enduserpage.resources
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Release\Inventory_app.Inventory.resources
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Release\Inventory_app.login.resources
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Release\Inventory_app.ManageInv.resources
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Release\Inventory_app.Properties.Resources.resources
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Release\Inventory_app.Users.resources
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Release\Inventory app.csproj.GenerateResource.cache
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Release\Inventory app.csproj.CoreCompileInputs.cache
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Release\Inventory app.csproj.CopyComplete
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Release\Inventory app.exe
+E:\Richfield\IT Project 700\Code\Inventory app\Inventory app\obj\Release\Inventory app.pdb
